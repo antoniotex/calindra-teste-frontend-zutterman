@@ -1,0 +1,19 @@
+.home{
+}
+.home-content{
+    display: flex;
+    max-width: 1024px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    padding: 10% 0;
+}
+.home-content h1{
+    font-weight: bold;
+    font-size: 82.2px;
+    color: #716565;
+}
+.home-content img{
+    width: 682px;
+    height: 335px;
+}
