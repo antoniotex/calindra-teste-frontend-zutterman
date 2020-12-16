@@ -31,7 +31,8 @@
         width: 285px;
         height: 140px;
     }
-}@media screen and (max-width: 320px){
+}
+@media screen and (max-width: 320px){
     .home-content{
         padding: 20% 0;
     }
