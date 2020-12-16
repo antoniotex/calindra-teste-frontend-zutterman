@@ -2,6 +2,7 @@ footer{
     display: flex;
     flex-wrap: nowrap;
     color: #716565;
+    padding: 47px 0 75px 0;
 }
 footer .social{
     width: 25%;
