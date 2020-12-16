@@ -20,7 +20,7 @@ Após terminar o download, acesse a pasta e abra o arquivo index.html no seu nav
 
 ### Na internet
 ```
-https://github.com/antoniotex/calindra-teste-frontend-zutterman
+https://antoniotex.github.io/calindra-teste-frontend-zutterman/
 ```
 
 
