@@ -16,7 +16,7 @@ Clone o repositório digitando no seu terminal
 git clone https://github.com/antoniotex/calindra-teste-frontend-omelete.git
 ```
 
-Após terminar o download, acesse a pasta e abra o arquivo index.html no seu navegador favorito.
+Após terminar o download, acesse a pasta e abra o arquivo index.html em seu navegador favorito.
 
 ### Na internet
 ```
